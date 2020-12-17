@@ -1,0 +1,12 @@
+form {
+	width: 100%;
+	margin: auto;
+}
+
+input[type=file] {
+	background-color: yellow;
+	padding: 12px 20px;
+	box-shadow: inset 2px -1px 3px blue;
+	border: 2px dashed red;
+	border-radius: 8px;
+}

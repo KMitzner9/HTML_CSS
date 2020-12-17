@@ -1,0 +1,6 @@
+alert("Korra is the cutest cat in the whole world!");
+function My_First_Function() {
+			var String = "Kiss me, I'm Irish!";
+			var result = String.fontcolor("green");
+			document.getElementById("Irish").innerHTML = result;
+		}
